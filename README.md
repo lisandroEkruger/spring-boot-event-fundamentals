@@ -1,7 +1,7 @@
 # Proyecto de Programación Orientada a Eventos con Spring Boot
 
 ## Descripción
-Este proyecto ejemplifica los fundamentos de la programación orientada a eventos utilizando Spring Boot, un framework robusto y muy utilizado en el desarrollo de aplicaciones Java. La programación orientada a eventos es un paradigma donde se define una serie de eventos —sucesos que ocurren dentro de la aplicación— y componentes que reaccionan a esos eventos mediante listeners o escuchas especializadas.
+Este proyecto ejemplifica los fundamentos de la programación orientada a eventos utilizando Spring Boot, un framework robusto y muy utilizado en el desarrollo de aplicaciones Java. La programación orientada a eventos es un paradigma donde se define una serie de eventos — sucesos que ocurren dentro de la aplicación y componentes que reaccionan a esos eventos mediante listeners o escuchas especializadas.
 
 La principal ventaja de este enfoque es la desacoplación entre los distintos componentes del sistema, lo que facilita mantener y escalar la aplicación.
 
